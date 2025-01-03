@@ -2,8 +2,8 @@
 
 This repository contains front-end projects inspired by the [roadmap.sh](https://roadmap.sh/) front-end developer path.
 
-## Project: [Single-Page HTML CV](https://single-page-f8n13u8pu-satyam-s-projects.vercel.app/)
-
+## Project: Single-Page HTML CV
+Project-URL:**[https://single-page-f8n13u8pu-satyam-s-projects.vercel.app/](https://single-page-f8n13u8pu-satyam-s-projects.vercel.app/)**
 ### Overview
 A structured, single-page CV created using only HTML. This project focuses on semantic HTML, SEO optimization, and Open Graph tags, providing a strong foundation for future CSS styling.
 
